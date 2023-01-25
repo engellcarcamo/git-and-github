@@ -7,10 +7,16 @@ body{
     padding: 0;
 }
 
+.cabecera{
+    background-color:#33A;
+    color: white;
+    padding: 0.4em;
+    font-weight: bold;
+}
 
 .container{
     width: 70%;
-    border: 1px solid red;
+    border: 1px dotted #333;
     margin: 0 auto;
     text-align: left;
     padding: 1em;
